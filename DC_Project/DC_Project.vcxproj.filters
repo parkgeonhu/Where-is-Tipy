@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{0a9a1375-8acd-413c-8b5c-0f40b37ce3de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Animation">
+      <UniqueIdentifier>{e6faf8fd-dac9-4b25-bb8a-52792e2e0cf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Sprite">
+      <UniqueIdentifier>{d64222a6-9376-43d9-974b-1a35710540d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Object">
+      <UniqueIdentifier>{807cfcda-cfd7-4ae6-8682-0469f05f99d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Func">
+      <UniqueIdentifier>{34a7e040-9866-49b9-a155-daae675879bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Win">
+      <UniqueIdentifier>{cf87db90-20a3-4b44-ae08-51a2f2fac7ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{d2b766b5-f79e-4394-bb23-02ce8d2c8ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScene">
+      <UniqueIdentifier>{7d231721-db3b-46b8-b352-1ede20bcca20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Stage">
+      <UniqueIdentifier>{a0ce6e8d-58d4-4240-a99c-bdd92628e009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Player">
+      <UniqueIdentifier>{56af2274-c36a-4aa0-b99a-90e704aeb6e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Hippo">
+      <UniqueIdentifier>{1953d6f7-a61d-47cd-9548-6fd568492f1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Title">
+      <UniqueIdentifier>{d230d135-5900-4fa0-8b02-6a4f710f705f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\UI">
+      <UniqueIdentifier>{b0b41920-68fa-4f60-a347-5d06231dbaf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\MenuScene">
+      <UniqueIdentifier>{6788ee9e-5ca5-483f-82e7-a2d920d12381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SoundMgr">
+      <UniqueIdentifier>{a78d9a40-b333-4ecd-b467-eb66d5077531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Font">
+      <UniqueIdentifier>{5b4ceba8-38e8-4677-b1cd-558219e7cbff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CAnimation.cpp">
+      <Filter>FrameWork\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="CSprite.cpp">
+      <Filter>FrameWork\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="IObject.cpp">
+      <Filter>FrameWork\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="myFunction.cpp">
+      <Filter>FrameWork\Func</Filter>
+    </ClCompile>
+    <ClCompile Include="WinFrame.cpp">
+      <Filter>FrameWork\Win</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameScene.cpp">
+      <Filter>Game\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Game\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>Game\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Hippo.cpp">
+      <Filter>Game\Hippo</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Game\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Game\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CMenuScene.cpp">
+      <Filter>Game\MenuScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>Game\SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>FrameWork\Font</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CAnimation.h">
+      <Filter>FrameWork\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="CSprite.h">
+      <Filter>FrameWork\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="IObject.h">
+      <Filter>FrameWork\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>FrameWork\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="myFunction.h">
+      <Filter>FrameWork\Func</Filter>
+    </ClInclude>
+    <ClInclude Include="WinFrame.h">
+      <Filter>FrameWork\Win</Filter>
+    </ClInclude>
+    <ClInclude Include="Def.h">
+      <Filter>FrameWork\Win</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameScene.h">
+      <Filter>Game\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Game\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Game\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Hippo.h">
+      <Filter>Game\Hippo</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>Game\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Game\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CMenuScene.h">
+      <Filter>Game\MenuScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>Game\SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>FrameWork\Font</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

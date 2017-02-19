@@ -1,0 +1,23 @@
+﻿빌드 시작: 2015-03-02 오후 9:57:44
+     1>2 노드의 "C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\DC_Project\DC_Project.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Map.cpp
+         Map.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\Debug\DC_Project.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\Debug\DC_Project.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\Debug\DC_Project.lib" /MACHINE:X86 Debug\CAnimation.obj
+         Debug\CGameScene.obj
+         Debug\CSprite.obj
+         Debug\IObject.obj
+         Debug\Item.obj
+         Debug\Laon.obj
+         Debug\Map.obj
+         Debug\Map_.obj
+         Debug\myFunction.obj
+         Debug\WinFrame.obj
+         Debug\WinMain.obj
+         DC_Project.vcxproj -> C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\Debug\DC_Project.exe
+     1>"C:\Users\Mac\Desktop\C++프로젝트\DC_Project1\DC_Project\DC_Project.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.50

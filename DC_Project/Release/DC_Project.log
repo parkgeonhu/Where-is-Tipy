@@ -1,0 +1,30 @@
+﻿빌드 시작: 2015-11-15 오후 5:19:12
+     1>2 노드의 "C:\Users\박건후\Desktop\Where Is Tipy\DC_Project\DC_Project.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WinFrame.cpp WinMain.cpp
+         WinFrame.cpp
+         WinMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\박건후\Desktop\Where Is Tipy\Release\DC_Project.exe" /INCREMENTAL:NO /NOLOGO fmod_vc.lib d3d9.lib d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\박건후\Desktop\Where Is Tipy\Release\DC_Project.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\박건후\Desktop\Where Is Tipy\Release\DC_Project.lib" /MACHINE:X86 /SAFESEH Release\CAnimation.obj
+         Release\CGameScene.obj
+         Release\CMenuScene.obj
+         Release\CSprite.obj
+         Release\Font.obj
+         Release\Hippo.obj
+         Release\IObject.obj
+         Release\myFunction.obj
+         Release\Player.obj
+         Release\SoundMgr.obj
+         Release\Stage.obj
+         Release\Title.obj
+         Release\UI.obj
+         Release\WinFrame.obj
+         Release\WinMain.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         DC_Project.vcxproj -> C:\Users\박건후\Desktop\Where Is Tipy\Release\DC_Project.exe
+     1>"C:\Users\박건후\Desktop\Where Is Tipy\DC_Project\DC_Project.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:07.80
